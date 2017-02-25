@@ -1,0 +1,27 @@
+.btn {
+	height: 100px;
+	width: 200px;
+	background: blue;
+}
+
+.btn:default {
+	height: 100px;
+	width: 200px;
+	background: blue;
+}
+
+.btn:hover {
+	background: green;
+}
+
+.btn:focus {
+	background: green;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+p {
+	display: inline;
+}
